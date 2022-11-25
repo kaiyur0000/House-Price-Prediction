@@ -13,7 +13,7 @@ and house prices for each one of it in Pune.
 https://drive.google.com/file/d/1f_QEaEH3xVLBnYMQ4Rm380ayru7HMJ76/view?usp=sharing
 
 2)
-
+https://github.com/kaiyur0000/House-Price-Prediction/blob/main/dataset.csv
 
 ⚫Following are the python library which we had used for project:-
   1)numpy
