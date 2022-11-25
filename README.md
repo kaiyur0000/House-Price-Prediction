@@ -19,6 +19,8 @@ https://drive.google.com/file/d/1f_QEaEH3xVLBnYMQ4Rm380ayru7HMJ76/view?usp=shari
   1)numpy
   2)pandas
   3)matplotlib
+  4)Bable
+  5)Statistics
 
 ⚫user inputs for predicting price:-
   1)cityname
