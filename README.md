@@ -11,6 +11,8 @@ and house prices for each one of it in Pune.
 >>TO DOWNLOAD DATASET:
 1)
 https://drive.google.com/file/d/1f_QEaEH3xVLBnYMQ4Rm380ayru7HMJ76/view?usp=sharing
+                  
+                                    OR
 
 2)
 https://github.com/kaiyur0000/House-Price-Prediction/blob/main/dataset.csv
@@ -21,10 +23,14 @@ https://github.com/kaiyur0000/House-Price-Prediction/blob/main/dataset.csv
   3)matplotlib
   4)Bable
   5)Statistics
+  6)Pandas-profiling
+  7)Time,webrowser
 
 ⚫user inputs for predicting price:-
   1)cityname
   2)no of bhk
   3)total squarefeet area
 
-⚫once user entered the correct details, the predicted price will display.
+⚫once user entered the correct details, the predicted price will display in 2 Categories :
+    1)For READY-TO-MOVE Houses
+    2)For NOT-READY-TO-MOVE
